@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+}
+#subt_bu {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input {
+    margin: 10px;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input::placeholder {
+    color: firebrick;
+}
